@@ -6,9 +6,7 @@
 
 *NexBank is a highly secure, scalable, and user-centric financial platform that consolidates multiple bank accounts into a single dashboard, facilitates peer-to-peer transfers, and provides comprehensive financial analytics.*
 
-![Project Banner Placeholder](https://via.placeholder.com/1200x400.png?text=NexBank+Banner)
-
-[Live Demo](#) | [Documentation](#) | [API Docs](#)
+[Live Demo](#)
 
 </div>
 
